@@ -1,1 +1,1 @@
-# ET-HI-GCN
+# TE-HI-GCN

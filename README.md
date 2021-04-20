@@ -32,12 +32,12 @@ mkdir <atlas name>
 
 Train the model of Transfer learning part that you need.
 
-load the Transfer learning part into the E-HI-GCN model
+Load the Transfer learning part into the E-HI-GCN model.
 
-Then, python train-ehiGCN
+Then, python train-ehiGCN.
 
 ## For ADNI Datasets：
 
-Using the code in the folder: ADNI
+Using the code in the folder: ADNI.
 
-Other operations are consistent with ASD
+Other operations are consistent with the ABIDE datasets.

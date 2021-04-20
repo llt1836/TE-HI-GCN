@@ -16,7 +16,7 @@ mkdir model
 
 cd model
 
-mkdir <fGCN/hiGCN/ehiGCN>
+mkdir <fGCN/hiGCN/ehiGCN>  (choose a floder name that you need)
 
 cd <fGCN/hiGCN/ehiGCN>
 
@@ -41,3 +41,7 @@ Then, python train-ehiGCN.
 Using the code in the folder: ADNI.
 
 Other operations are consistent with the ABIDE datasets.
+
+Change "name" in these codes when you need to product results of different atlas.
+
+Change "thr" in train-fGCN.py when you need to product results with different thresholds.

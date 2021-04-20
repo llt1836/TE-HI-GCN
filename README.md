@@ -10,12 +10,18 @@ Python 3.6
 
 # Reproducing Results
 
-For ABIDE Datasets：
+## For ABIDE Datasets：
+
 mkdir model
+
 cd model
+
 mkdir <fGCN/hiGCN/ehiGCN>
+
 cd <fGCN/hiGCN/ehiGCN>
+
 mkdir <atlas name>
+
 1、f-GCN: python train-fGCN.py
 
 2、HI-GCN: python train-hiGCN.py
@@ -30,3 +36,8 @@ load the Transfer learning part into the E-HI-GCN model
 
 Then, python train-ehiGCN
 
+## For ADNI Datasets：
+
+Using the code in the folder: ADNI
+
+Other operations are consistent with ASD

@@ -2,7 +2,7 @@
 
 The implementation of TE-HI-GCN in our paper:(The paper is under rewever.)
 
-Lanting LI et.al "TE-HI-GCN: An Ensemble of Transfer Hierachical Graph Convolutional Networks for Disorder Diagnosis." 
+Lanting Li et.al "TE-HI-GCN: An Ensemble of Transfer Hierachical Graph Convolutional Networks for Disorder Diagnosis." 
 
 # Require
 

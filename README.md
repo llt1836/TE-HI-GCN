@@ -1,6 +1,6 @@
 # TE-HI-GCN
 
-The implementation of TE-HI-GCN in our paper:(The paper is under rewever.)
+The implementation of TE-HI-GCN in our paper:
 
 Lanting Li et.al "TE-HI-GCN: An Ensemble of Transfer Hierachical Graph Convolutional Networks for Disorder Diagnosis." 
 
